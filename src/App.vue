@@ -1,6 +1,6 @@
 <template>
     <HelloWorld msg="Hello Vue 3 + Vite" />
-     33333
+     66669999
 </template>
 
 <script setup>
